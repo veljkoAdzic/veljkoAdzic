@@ -19,17 +19,10 @@ This github profile contains many of my personal projects that I've worked on ov
 <p align="left"> <a href="https://www.github.com/veljkoAdzic" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/veljko-adzic-32b6a7368" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
 
 <a href="mailto:veljko.adzic.004@gmail.com" target="_blank" rel="noreferrer"> 
-  <!-- TEMPORARY -->
   <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Email" title="Email" /> 
+    <source media="(prefers-color-scheme: dark)" srcset="icons/mail-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="icons/mail-light.svg" /> 
+    <img src="icons/mail-dark.svg" width="32" height="32" alt="Email" title="Email" /> 
   </picture> 
 </a>
-
 </p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/veljkoAdzic"><img src="https://github-readme-stats.vercel.app/api?username=veljkoAdzic&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="veljkoAdzic's GitHub stats" /></a>
